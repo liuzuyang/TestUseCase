@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
 	qDebug() << "TBB_runtime_interface_version: " << 
 		tbb::TBB_runtime_interface_version();
 
+	f
+
     return a.exec();
 }
